@@ -12,13 +12,13 @@ import java.util.UUID;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 @SpringBootTest
-class BreweryClientTest {
+class BeerBreweryClientTest {
 
     @Autowired
-    BreweryClient client;
+    BeerBreweryClient client;
 
     @Test
-    void getBeerById() {
+    void testGetBeerById() {
         BeerDto dto = client.getBeerById(UUID.randomUUID());
 
         assertNotNull(dto);
@@ -85,5 +85,10 @@ class BreweryClientTest {
     @Test
     void testDeleteCustomer() {
         client.deleteCustomer(UUID.randomUUID());
+    }
+
+    @Test
+    void testDeleteBeer() {
+        client.deleteBeer(UUID.randomUUID());
     }
 }

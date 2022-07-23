@@ -1,2 +1,3 @@
 guru/springframework/msscbreweryclient/MsscBreweryClientApplicationTests.class
-guru/springframework/msscbreweryclient/web/client/BreweryClientTest.class
+guru/springframework/msscbreweryclient/web/client/CustomerBreweryClientTest.class
+guru/springframework/msscbreweryclient/web/client/BeerBreweryClientTest.class
