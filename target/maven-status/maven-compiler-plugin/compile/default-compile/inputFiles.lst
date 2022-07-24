@@ -1,6 +1,8 @@
 /home/mcy/Dropbox/Documents/Dossiers_pratiques/NBC/ProjetsDePratique/springBreweryClient/src/main/java/guru/springframework/msscbreweryclient/web/client/package-info.java
 /home/mcy/Dropbox/Documents/Dossiers_pratiques/NBC/ProjetsDePratique/springBreweryClient/src/main/java/guru/springframework/msscbreweryclient/MsscBreweryClientApplication.java
+/home/mcy/Dropbox/Documents/Dossiers_pratiques/NBC/ProjetsDePratique/springBreweryClient/src/main/java/guru/springframework/msscbreweryclient/web/config/NIORestTemplateCustomizer.java
 /home/mcy/Dropbox/Documents/Dossiers_pratiques/NBC/ProjetsDePratique/springBreweryClient/src/main/java/guru/springframework/msscbreweryclient/web/client/CustomerBreweryClient.java
 /home/mcy/Dropbox/Documents/Dossiers_pratiques/NBC/ProjetsDePratique/springBreweryClient/src/main/java/guru/springframework/msscbreweryclient/web/model/CustomerDto.java
+/home/mcy/Dropbox/Documents/Dossiers_pratiques/NBC/ProjetsDePratique/springBreweryClient/src/main/java/guru/springframework/msscbreweryclient/web/config/BlockingRestTemplateCustomizer.java
 /home/mcy/Dropbox/Documents/Dossiers_pratiques/NBC/ProjetsDePratique/springBreweryClient/src/main/java/guru/springframework/msscbreweryclient/web/model/BeerDto.java
 /home/mcy/Dropbox/Documents/Dossiers_pratiques/NBC/ProjetsDePratique/springBreweryClient/src/main/java/guru/springframework/msscbreweryclient/web/client/BeerBreweryClient.java

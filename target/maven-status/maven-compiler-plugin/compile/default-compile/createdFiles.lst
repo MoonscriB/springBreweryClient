@@ -2,6 +2,8 @@ guru/springframework/msscbreweryclient/web/client/BeerBreweryClient.class
 guru/springframework/msscbreweryclient/web/model/BeerDto$BeerDtoBuilder.class
 guru/springframework/msscbreweryclient/web/client/CustomerBreweryClient.class
 guru/springframework/msscbreweryclient/MsscBreweryClientApplication.class
+guru/springframework/msscbreweryclient/web/config/NIORestTemplateCustomizer.class
 guru/springframework/msscbreweryclient/web/model/CustomerDto$CustomerDtoBuilder.class
 guru/springframework/msscbreweryclient/web/model/BeerDto.class
 guru/springframework/msscbreweryclient/web/model/CustomerDto.class
+guru/springframework/msscbreweryclient/web/config/BlockingRestTemplateCustomizer.class
